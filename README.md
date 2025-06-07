@@ -32,7 +32,7 @@ Sem enfeite: só o que tô aprendendo, praticando ou tentando melhorar.
 
 ## 📬 Contato
 
-- Instagram: [@op4uloo](https://www.instagram.com/op4uloo/)
+- Instagram: [https://www.instagram.com/op4uloo_/)
 - Email: contatopaulodev1@gmail.com
 
 ---

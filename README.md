@@ -1,49 +1,41 @@
-# Fala aí! Eu sou o Paulo 👋
+# Paulo – Desenvolvedor em formação
 
-💻 Estudante de Informática no ITB  
-☕ Amante de **Java** e códigos bem feitos  
-⚙️ Sempre fuçando em projetos pra aprender mais e mais
+Tenho 16 anos, estudo Informática no ITB(Instituto Técnico de Barueri)- e sigo construindo minha base com foco em desenvolvimento backend e frontend.
 
----
-
-## 🚀 Sobre mim
-
-Tenho **16 anos** e tô mergulhado no mundo da programação. Curto de verdade desenvolver em **Java**, mas também tô explorando o lado web com **React** e **Vite** pra deixar as interfaces daquele jeitão 🔥
-
-Aqui é na base do “quebrar e consertar”. Aprendizado raiz.
+MInha linguagem principal  é **Java**, mas também desenvolvo interfaces modernas com **JavaScript**, **React** e **Vite**.  
+Curioso por sistemas que fazem sentido e códigos que resolvem problemas reais.
 
 ---
 
-## 📁 O que tem por aqui
+## 🔧 Stack que estudo e aplico
 
-- Projetos em **Java** (meu foco principal)
-- Interfaces com **React + Vite**
-- Coisas da escola e projetos paralelos
-- Código simples, funcional e direto ao ponto
-
----
-
-## 🧠 Tecnologias que tô usando
-
-- ☕ **Java**
-- ⚛️ **React**
-- ⚡ **Vite**
-- 💅 **HTML + CSS**
-- 🛢️ **MySQL**
-- 🧰 **Git + GitHub**
+- **Java** – onde comecei e continuo evoluindo
+- **JavaScript (ES6+)** – flexível e direto
+- **React** – para interfaces modulares e reutilizáveis
+- **Vite** – rápido, simples e direto ao ponto
+- **MySQL** – banco relacional, estruturado, sem firula
 
 ---
 
-## 📫 Me encontra aqui:
+## 📁 Sobre este GitHub
 
-- Instagram: [@op4uloo](https://www.instagram.com/op4uloo/)  
+Aqui você vai encontrar:
+
+- Projetos de estudo (com intenção real de aprendizado)
+- Testes e experimentos técnicos
+- Algumas ideias tiradas do papel
+- Código em construção constante
+
+Sem enfeite: só o que tô aprendendo, praticando ou tentando melhorar.
+
+---
+
+## 📬 Contato
+
+- Instagram: [@op4uloo](https://www.instagram.com/op4uloo/)
 - Email: contatopaulodev1@gmail.com
 
 ---
 
-🗨️ *"public class HelloWorld {
-    public static void main(String[] args) {
-        System.out.println("Hello, World!");
-    }
-}
-."*
+> Código bom é aquele que você entende quando volta amanhã.
+

@@ -26,9 +26,8 @@ Gosto de aprender na prática, criando meus próprios projetos para testar e mel
             alt="Seguidores" 
             title="Follow me on GitHub" 
             src="https://custom-icon-badges.demolab.com/github/followers/pauloWare?color=236ad3&labelColor=e9f1f7&style=for-the-badge&logo=github&label=Seguidores&logoColor=black"
-        /
+        />
     </a>
-      />
     </a> 
     <a href="https://github.com/pauloWare?tab=repositories&sort=stargazers">
         <img 

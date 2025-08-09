@@ -2,7 +2,9 @@
 
 **`Desenvolvedor`**
 
-Me chamo Paulo, tenho 16 anos e sou estudante de Informática no Instituto Técnico de Barueri (ITB), em São Paulo. Tenho interesse em desenvolvimento de software, especialmente nas áreas de programação web e design de interfaces. No momento, estou aprofundando meus conhecimentos em linguagens como HTML, CSS e JavaScript, além de APIs e banco de dados. Gosto de aplicar na prática o que aprendo em aula, desenvolvendo projetos próprios e buscando constantemente aprimorar minhas habilidades técnicas e criativas. Estou sempre aberto a novos aprendizados e desafios que me ajudem a evoluir como desenvolvedor.
+E aí, eu sou o Paulo, tenho 16 anos e estudo Informática no ITB, em Barueri. Meu foco é desenvolvimento de software, principalmente com Java e banco de dados SQL. Curto demais programar e mexer com banco de dados, entendendo como organizar e fazer as coisas rodarem da melhor forma possível.
+
+Gosto de aprender na prática, criando meus próprios projetos para testar e melhorar minhas habilidades. Sempre tô buscando crescer e encarar desafios que me façam evoluir como desenvolvedor, entregando códigos limpos, eficientes e que realmente funcionem.
 
 <p align="left">
    <a href="https://mail.google.com/mail/u/1/#sent?compose=DmwnWtMqhRGmPkzhpHjxjDSJzspBRSskfppgpcNGJWXlvFjKclnhNwRGgHhCDnRZCtZHFrsXQwtl" target="_blank">
@@ -26,7 +28,7 @@ Me chamo Paulo, tenho 16 anos e sou estudante de Informática no Instituto Técn
             src="https://custom-icon-badges.demolab.com/github/followers/pauloWare?color=236ad3&labelColor=e9f1f7&style=for-the-badge&logo=github&label=Seguidores&logoColor=black"
         />
     </a>
-        />
+      />
     </a> 
     <a href="https://github.com/pauloWare?tab=repositories&sort=stargazers">
         <img 

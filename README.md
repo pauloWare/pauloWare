@@ -110,7 +110,7 @@ Aprendo de verdade quando coloco a mão na massa, por isso crio projetos própri
     title="Linux" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https:///dn.jsdelivr.net/gh/devicons/devicons/icons/linux/linux-plain.svg"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
  />
 
 <br/>

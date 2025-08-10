@@ -2,7 +2,7 @@
 
 **`Desenvolvedor`**
 
-Sou o Paulo, estudante do Ensino Médio integrado ao curso técnico de Informática no ITB, em Barueri. Meu foco é desenvolvimento de software com Java e bancos de dados SQL, sempre buscando entender a lógica por trás do código e como deixar tudo mais eficiente.
+Eai, eu sou o Paulo, estudante do Ensino Médio integrado ao curso técnico de Informática no ITB, em Barueri. Meu foco é desenvolvimento de software com Java e bancos de dados SQL, sempre buscando entender a lógica por trás do código e como deixar tudo mais eficiente.
 
 Aprendo de verdade quando coloco a mão na massa, por isso crio projetos próprios para testar ideias e evoluir minhas habilidades. Gosto de escrever códigos limpos e bem estruturados, e estou sempre atrás de desafios que me façam crescer como desenvolvedor.
 

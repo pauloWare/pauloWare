@@ -2,9 +2,9 @@
 
 **`Desenvolvedor`**
 
-E aí, eu sou o Paulo, tenho 16 anos e estudo Informática no ITB, em Barueri. Meu foco é desenvolvimento de software, principalmente com Java e banco de dados SQL. Curto demais programar e mexer com banco de dados, entendendo como organizar e fazer as coisas rodarem da melhor forma possível.
+Sou o Paulo, estudante do Ensino Médio integrado ao curso técnico de Informática no ITB, em Barueri. Meu foco é desenvolvimento de software com Java e bancos de dados SQL, sempre buscando entender a lógica por trás do código e como deixar tudo mais eficiente.
 
-Gosto de aprender na prática, criando meus próprios projetos para testar e melhorar minhas habilidades. Sempre tô buscando crescer e encarar desafios que me façam evoluir como desenvolvedor, entregando códigos limpos, eficientes e que realmente funcionem.
+Aprendo de verdade quando coloco a mão na massa, por isso crio projetos próprios para testar ideias e evoluir minhas habilidades. Gosto de escrever códigos limpos e bem estruturados, e estou sempre atrás de desafios que me façam crescer como desenvolvedor.
 
 <p align="left">
    <a href="https://mail.google.com/mail/u/1/#sent?compose=DmwnWtMqhRGmPkzhpHjxjDSJzspBRSskfppgpcNGJWXlvFjKclnhNwRGgHhCDnRZCtZHFrsXQwtl" target="_blank">

@@ -33,10 +33,7 @@ Aprendo de verdade quando coloco a mão na massa, por isso crio projetos própri
         <img 
             alt="Total de estrelas" 
             title="Total stars" 
-          src="https://custom-icon-badges.demolab.com/github/stars/pauloWare?color=f0eabd&style=for-the-badge&labelColor=fffde7&logo=star&label=estrelas"
-
-
-   />
+          src="https://custom-icon-badges.demolab.com/github/stars/pauloWare?color=f0eabd&style=for-the-badge&labelColor=fffde7&logo=star&label=estrelas">
 </a>
 </p>
 

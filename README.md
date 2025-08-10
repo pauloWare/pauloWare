@@ -33,7 +33,7 @@ Aprendo de verdade quando coloco a mão na massa, por isso crio projetos própri
         <img 
             alt="Total de estrelas" 
             title="Total stars" 
-            src="https:///dn.jsdelivr.net/gh/devicons/devicons/icons/linux/linux-plain.svg""
+            src="https://custom-icon-badges.demolab.com/github/stars/pauloWare?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
 </p>
@@ -110,7 +110,7 @@ Aprendo de verdade quando coloco a mão na massa, por isso crio projetos própri
     title="Linux" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https:///cdn.jsdelivr.net/gh/devicons/devicons/icons/linux/linux-original.svg"
+    src="https:///dn.jsdelivr.net/gh/devicons/devicons/icons/linux/linux-plain.svg"
  />
 
 <br/>

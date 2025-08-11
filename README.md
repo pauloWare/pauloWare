@@ -3,7 +3,7 @@
 **`Desenvolvedor`**
 
 
-E aí, eu sou o Paulo, tô fazendo o Ensino Médio integrado com Informática no ITB, Barueri. Minha gosto muito de programação, principalmente Java e SQL, mas não fico preso só nisso, gosto de aprender tudo que puder pra criar projetos que funcionem de verdade.
+E aí, eu sou o Paulo, tô fazendo o Ensino Médio integrado com Informática no ITB, Barueri. Gosto muito de programação, principalmente codar em Java, e criar bancos com o SQL, mas não fico preso só nisso, gosto de aprender tudo que puder pra criar projetos que funcionem de verdade.
 
 Não curto enrolação, aprendo mexendo no código, criando meus próprios projetos pra testar as ideias e melhorar meu jeito de programar. Quero sempre evoluir e encarar qualquer desafio que apareça no caminho..
 
